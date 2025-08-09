@@ -78,4 +78,8 @@ All employees were able to get their paychecks ___ [보기: lost;delayed;cancele
 
 Customers are more likely to _____ stores with excellent customer service [보기: ignore;patronize;avoid;complain;c]? patronize
 
+For the next three kilometers, please expect traffic _____ due to construction [보기: fines;delays;accidents;closures;f]? delays
+
+An oral announcement of a change in corporate policy will always be accompanied ___ a written memo [보기: with;by;via;through;a]? by
+
 
