@@ -102,4 +102,20 @@ _____ Mr. Schmidt is probably our most productive employee, he has only been pro
 
 If you pass the second person in a race, what position are you in [보기: first;third;second;last;i]? SECOND
 
+Anyone who does not have an account with URC Bank must present two forms of ____ to use any of our services [보기: documentation;identification;certification;verification;a]? identification
 
+He is going to buy not only sugar ____ salt. 여기서 ____는 [보기: or;but;and;nor;h]? but
+
+Because of their prompt delivery and response, we decided to _____ Hyun-Joo Shipping Company for multiple shipments [보기: ignore;avoid;use;reject;b]? use
+
+Our company will _____ you when the airline tickets are ready for delivery [보기: remind;tell;inform;notify;o]? notify
+
+Overall production of vacuum cleaners __ since the completion of the Plant 2 expansion project 3 months ago [보기: will increase;is increasing;was increasing;has increased;o]? has increased
+
+Because the banquet will begin _____ at 6:00, all catering employees are requested to arrive at 5:30 [보기: gradually;casually;late;promptly;b]? promptly
+
+For various reasons, the couples all rode in ___ car [보기: different;single;separate;same;f]? separate
+
+All of the restaurants ____ Leonardo's do not open until 11 in the morning [보기: likewise;including;except;besides;a]? except
+
+It has been only two years that my boss has begun to look ___? [보기: young;old;happy;tired;i]? old
